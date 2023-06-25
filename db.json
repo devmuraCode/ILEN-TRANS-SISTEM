@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "admin": true,
+      "company": "google",
+      "email": "muradkusherbaev@gmail.com",
+      "name": "Мурат",
+      "id": 1
+    }
+  ]
+}
